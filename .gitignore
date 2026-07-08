@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / local
+.cursor/
+.idea/
+.vscode/
+*.swp
+
+# Secrets
+.env
+.env.*
+*.pem
+
+# Development / archive (not production)
+oudesite/
+scripts/
+menu.html
+
+# Logs
+*.log
