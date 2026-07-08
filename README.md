@@ -1,8 +1,6 @@
 # Brasserie Rubens — Website
 
-Premium static website for [Brasserie Rubens](https://brasserierubens.be) in Knokke-Heist.
-
-Built by [Cappelle](https://bycappelle.be) as a custom-coded hospitality website with HTML, CSS, and vanilla JavaScript.
+Website for [Brasserie Rubens](https://brasserierubens.be) in Knokke-Heist, developed by [Cappelle](https://bycappelle.be).
 
 ## Structure
 
@@ -43,6 +41,6 @@ Ensure:
 | Français | `/fr/` |
 | English | `/en/` |
 
-## License
+## Credits
 
-© Cappelle. All rights reserved. Client assets and content belong to Brasserie Rubens.
+Design & development by **Cappelle**
