@@ -1,4 +1,4 @@
-# Brasserie Rubens — Website
+# Brasserie Rubens
 
 Website for [Brasserie Rubens](https://brasserierubens.be) in Knokke-Heist, developed by [Cappelle](https://bycappelle.be).
 
